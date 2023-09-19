@@ -1,6 +1,9 @@
 from getpass import getpass
 from mysql.connector import connect, Error
 
+def print_3():
+    print(3)
+    
 try:
     with connect(
         host="localhost",
