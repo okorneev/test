@@ -1,3 +1,6 @@
+def print_4():
+    print(4)
+
 def print_1():
     print(1)
 
